@@ -1,3 +1,4 @@
+# the project in python project on nanodgree
 import time
 import pandas as pd
 import numpy as np
